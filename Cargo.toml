@@ -8,4 +8,6 @@ edition = "2018"
 
 [dependencies]
 # My memory library to read / write process memory
+# Either clone this to the parent directory, or use the
+# `git` flag with https://github.com/rmccrystal/memlib-rs
 memlib = { path = "../memlib-rs" }
