@@ -10,9 +10,8 @@ mod config;
 mod hacks;
 mod sdk;
 
-// pub const PROCESS_NAME: &str = "FortniteClient-Win64-Shipping.exe";
-pub const PROCESS_NAME: &str = "explorer.exe";
-pub const CHEAT_TICKRATE: u64 = 240;
+pub const PROCESS_NAME: &str = "FortniteClient-Win64-Shipping.exe";
+pub const CHEAT_TICKRATE: u64 = 1;
 
 const LOG_LEVEL: LevelFilter = LevelFilter::Debug;
 
