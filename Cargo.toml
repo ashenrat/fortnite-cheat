@@ -11,3 +11,4 @@ edition = "2018"
 # Either clone this to the parent directory, or use the
 # `git` flag with https://github.com/rmccrystal/memlib-rs
 memlib = { path = "../memlib-rs" }
+log = "0.4.8"
